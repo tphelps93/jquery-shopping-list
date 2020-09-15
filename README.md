@@ -1,3 +1,3 @@
 # Shopping List App Challenge
 
-This repo contains starter files for the *Shopping List App* challenge.
+[Preview](https://tphelps93.github.io/jquery-shopping-list/)
